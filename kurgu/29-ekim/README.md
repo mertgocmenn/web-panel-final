@@ -21,3 +21,4 @@ Plan listesi ve kareler: `29Ekim_Kurgu_Plani_v1.pdf`.
 
 ## v3 (final öneri)
 - `29Ekim_KURGU_v3.fcpxml` + `29Ekim_Kurgu_Plani_v3.pdf`: 47 plan. Omurga 12.38.08 + 22.47.08, drone yakınlaşmaları, 22.47.08'de dönüşümlü yakınlaşma, enerjiye göre kesim hızı, kadraj sorunlu bölümler elendi, finalden önce 13.43.23 bayrak planı.
+- Ses: A1 orijinal MP3 (tam süre). A2: finalde 12.38.08'in kendi sesinden alkış, şarkıda 169.8–178.0 sn, +6 dB, 0.4 sn fade-in / 1 sn fade-out (`kurgu_v3.json` → `audio_extra`).

@@ -676,5 +676,17 @@
   179.0722902494331,
   181.3014058956916,
   183.41442176870748
+ ],
+ "audio_extra": [
+  {
+   "src": "WhatsApp Video 2026-10-22 at 12.38.08",
+   "song_in": 169.8,
+   "song_out": 178.0,
+   "src_in": 162.217,
+   "gain_db": 6.0,
+   "fade_in": 0.4,
+   "fade_out": 1.0,
+   "note": "final alkis (klibin kendi sesi)"
+  }
  ]
 }
