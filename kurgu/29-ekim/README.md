@@ -18,3 +18,6 @@ Plan listesi ve kareler: `29Ekim_Kurgu_Plani_v1.pdf`.
 
 ## v2
 - **29 Ekim KURGU v2** (`29Ekim_KURGU_v2.fcpxml`): omurga 12.38.08 (yakın) + 22.47.08 (geniş), drone planları keyframe yakınlaşmalı, titreme ve kadraja giren telefon elendi. Plan: `29Ekim_Kurgu_Plani_v2.pdf`.
+
+## v3 (final öneri)
+- `29Ekim_KURGU_v3.fcpxml` + `29Ekim_Kurgu_Plani_v3.pdf`: 47 plan. Omurga 12.38.08 + 22.47.08, drone yakınlaşmaları, 22.47.08'de dönüşümlü yakınlaşma, enerjiye göre kesim hızı, kadraj sorunlu bölümler elendi, finalden önce 13.43.23 bayrak planı.

@@ -39,8 +39,9 @@ lines = [
     "Müzik: WhatsApp Audio 2026-10-26 at 22.35.04.mp3 (3:05.7, ~112 BPM)",
     "Kesimler 4 vuruşluk ölçü ızgarasında (1 ölçü ≈ 2.14 sn; çoğu plan 2 ölçü ≈ 4.3 sn).",
     "Tüm planlar müziğe senkron: kaynaktaki an = şarkıdaki an (dudak senkronu korunur).",
-    f"Toplam {len(d['shots'])} plan. v2 brifi: omurga 12.38.08 (yakın) + 22.47.08 (geniş) ≈ %45,",
-    "   drone ≈ %23 (yavaş yakınlaşma), diğer çekimler ≈ %32. Titreme/sarsıntı ve kadraja giren telefon elendi.",
+    f"Toplam {len(d['shots'])} plan. Omurga 12.38.08 (yakın) + 22.47.08 (geniş) ≈ %46, drone ≈ %24 (yavaş yakınlaşma),",
+    "   diğer çekimler ≈ %30. Enerjili yerlerde 1 ölçülük hızlı kesimler, sakin yerlerde 2–3 ölçü.",
+    "   Elenen: titreme/savrulma, kadraja giren telefon, el, yetişkin; bulanık anlar. Finalden önce bayrak planı.",
     "",
     "Senkron (şarkıdaki başlangıç sn):",
 ]
@@ -48,13 +49,12 @@ for k, v in sorted(d["offsets"].items(), key=lambda x: x[1]):
     lines.append(f"   {short(k):28s} {v:7.2f}")
 lines += [
     "",
-    "Senkronsuz / kullanılmayan: WA 13.43.23 (bayraklı öğretmenler), WA 22.38.01 (1) (senkron belirsiz),",
+    "Senkronsuz: WA 13.43.23 (bayraklar, 46. plan, 1 ölçü). Kullanılmayan: WA 22.38.01 (1) (senkron belirsiz),",
     "   WA 13.01.01 ve WA 22.38.01 (çok sarsıntılı), WA 22.38.01 (2) (dikey + sarsıntılı),",
     "   WA 14.07.54 (1) (WA 14.07.54 ile birebir aynı), DRONE 0001 yalnız açılışta.",
     "",
     "SORULAR:",
-    "1) “Çocukların 29 Ekim hakkında konuştuğu” klip bulamadım — hepsi şarkı/dans. 13.43.23 (bayraklar) eklensin mi?",
-    "2) Hangi planı değiştirelim? Plan numarasıyla yazman yeterli (ör. “12 → 12.38.08”).",
+    "Değişiklik istenirse plan numarasıyla yazılması yeterli (ör. “12 → 12.38.08”).",
 ]
 for ln in lines:
     dr.text((90, y), ln, font=f_b, fill="black"); y += 36
