@@ -15,3 +15,6 @@ Kaynak: Drive "cem abi 29 Ekim" (23 WhatsApp videosu, 3 drone, 1 MP3).
 ## Senkron
 `sync.json` (ses korelasyonu), `dronesync.json` (drone: koreografi hareketinden). Değerler = kaynağın 0. saniyesinin şarkıdaki zamanı.
 Plan listesi ve kareler: `29Ekim_Kurgu_Plani_v1.pdf`.
+
+## v2
+- **29 Ekim KURGU v2** (`29Ekim_KURGU_v2.fcpxml`): omurga 12.38.08 (yakın) + 22.47.08 (geniş), drone planları keyframe yakınlaşmalı, titreme ve kadraja giren telefon elendi. Plan: `29Ekim_Kurgu_Plani_v2.pdf`.

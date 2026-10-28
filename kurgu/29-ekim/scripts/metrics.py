@@ -28,7 +28,7 @@ while True:
         M = np.float32([[1, 0, dx], [0, 1, dy]])
         comp = cv2.warpAffine(prev, M, small.shape[::-1])
         energy = float(np.abs(small - comp)[8:-8, 8:-8].mean())
-        rows.append([round(t, 2), round(float(np.hypot(dx, dy)) / 192 * 100, 3), round(sharp, 1), round(energy, 3)])
+        rows.append([round(t, 2), round(float(np.hypot(dx, dy)) / 192 * 100, 3), round(sharp, 1), round(energy, 3), round(dx / 192 * 100, 3), round(dy / 192 * 100, 3)])
     prev = small
 json.dump(dict(fps=fps, rows=rows), open(out, "w"))
 print(os.path.basename(path), len(rows))
