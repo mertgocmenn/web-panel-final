@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+<resources>
+<format id="r0" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r1" name="WhatsApp Audio 2026-10-26 at 22.35.04.mp3" start="0s" duration="5572/30s" hasVideo="0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="44100"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/mp3/WhatsApp%20Audio%202026-10-26%20at%2022.35.04.mp3"/></asset>
+<asset id="r2" name="WhatsApp Video 2026-10-22 at 14.06.22" start="0s" duration="5557/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2014.06.22.mp4"/></asset>
+<asset id="r3" name="WhatsApp Video 2026-10-22 at 22.47.08" start="0s" duration="5222/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2022.47.08.mp4"/></asset>
+<asset id="r4" name="WhatsApp Video 2026-10-22 at 12.38.08" start="0s" duration="5213/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.38.08.mp4"/></asset>
+<asset id="r5" name="WhatsApp Video 2026-10-22 at 12.40.57" start="0s" duration="5396/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.40.57.mp4"/></asset>
+<asset id="r6" name="WhatsApp Video 2026-10-22 at 12.58.15 (1)" start="0s" duration="4988/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.58.15%20%281%29.mp4"/></asset>
+<asset id="r7" name="WhatsApp Video 2026-10-22 at 16.20.55" start="0s" duration="4923/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2016.20.55.mp4"/></asset>
+<asset id="r8" name="WhatsApp Video 2026-10-22 at 17.36.26" start="0s" duration="5451/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2017.36.26.mp4"/></asset>
+<asset id="r9" name="WhatsApp Video 2026-10-22 at 12.58.09" start="0s" duration="1087/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.58.09.mp4"/></asset>
+<asset id="r10" name="WhatsApp Video 2026-10-22 at 12.58.15" start="0s" duration="1076/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.58.15.mp4"/></asset>
+<asset id="r11" name="WhatsApp Video 2026-10-22 at 12.58.51" start="0s" duration="231/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2012.58.51.mp4"/></asset>
+<asset id="r12" name="WhatsApp Video 2026-10-22 at 13.01.01 (1)" start="0s" duration="449/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.01.01%20%281%29.mp4"/></asset>
+<asset id="r13" name="WhatsApp Video 2026-10-22 at 13.32.04" start="0s" duration="666/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.32.04.mp4"/></asset>
+<asset id="r14" name="WhatsApp Video 2026-10-22 at 13.32.05" start="0s" duration="420/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.32.05.mp4"/></asset>
+<asset id="r15" name="WhatsApp Video 2026-10-22 at 13.32.05 (1)" start="0s" duration="686/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.32.05%20%281%29.mp4"/></asset>
+<asset id="r16" name="WhatsApp Video 2026-10-22 at 14.07.17" start="0s" duration="867/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2014.07.17.mp4"/></asset>
+<asset id="r17" name="WhatsApp Video 2026-10-22 at 14.07.53" start="0s" duration="548/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2014.07.53.mp4"/></asset>
+<asset id="r18" name="WhatsApp Video 2026-10-22 at 14.07.54" start="0s" duration="627/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2014.07.54.mp4"/></asset>
+<asset id="r19" name="WhatsApp Video 2026-10-22 at 22.38.01 (1)" start="0s" duration="243/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2022.38.01%20%281%29.mp4"/></asset>
+<asset id="r20" name="DJI_20261022115523_0002_D" start="0s" duration="5764/30s" hasVideo="1" format="r0" hasAudio="0"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/dron/DJI_20261022115523_0002_D.MP4"/></asset>
+<asset id="r21" name="DJI_20261022115924_0003_D" start="0s" duration="5527/30s" hasVideo="1" format="r0" hasAudio="0"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/dron/DJI_20261022115924_0003_D.MP4"/></asset>
+<asset id="r22" name="WhatsApp Video 2026-10-22 at 13.43.23" start="0s" duration="391/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.43.23.mp4"/></asset>
+<asset id="r23" name="WhatsApp Video 2026-10-22 at 13.01.01" start="0s" duration="423/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2013.01.01.mp4"/></asset>
+<asset id="r24" name="WhatsApp Video 2026-10-22 at 22.38.01" start="0s" duration="320/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2022.38.01.mp4"/></asset>
+<asset id="r25" name="WhatsApp Video 2026-10-22 at 22.38.01 (2)" start="0s" duration="527/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2022.38.01%20%282%29.mp4"/></asset>
+<asset id="r26" name="WhatsApp Video 2026-10-22 at 14.07.54 (1)" start="0s" duration="627/30s" hasVideo="1" format="r0" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/WhatsApp%20Video%202026-10-22%20at%2014.07.54%20%281%29.mp4"/></asset>
+<asset id="r27" name="DJI_20261022115239_0001_D" start="0s" duration="361/30s" hasVideo="1" format="r0" hasAudio="0"><media-rep kind="original-media" src="file:///29_EKIM_MEDYA/dron/DJI_20261022115239_0001_D.MP4"/></asset>
+</resources>
+<library>
+<event name="29 Ekim">
+<project name="29 Ekim SENKRON">
+<sequence format="r0" duration="8545/30s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+<spine>
+<gap name="SENKRON" offset="0s" start="0s" duration="8545/30s">
+<asset-clip ref="r1" lane="-1" offset="0s" name="WhatsApp Audio 2026-10-26 at 22.35.04.mp3" start="0s" duration="5572/30s"/>
+<asset-clip ref="r2" lane="1" offset="22/30s" name="WhatsApp Video 2026-10-22 at 14.06.22" start="0/30s" duration="5556/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r3" lane="2" offset="263/30s" name="WhatsApp Video 2026-10-22 at 22.47.08" start="0/30s" duration="5221/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r4" lane="3" offset="227/30s" name="WhatsApp Video 2026-10-22 at 12.38.08" start="0/30s" duration="5212/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r5" lane="4" offset="99/30s" name="WhatsApp Video 2026-10-22 at 12.40.57" start="0/30s" duration="5395/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r20" lane="5" offset="418/30s" name="DJI_20261022115523_0002_D" start="0/30s" duration="5763/30s"></asset-clip>
+<asset-clip ref="r21" lane="6" offset="215/30s" name="DJI_20261022115924_0003_D" start="0/30s" duration="5526/30s"></asset-clip>
+<asset-clip ref="r6" lane="7" offset="531/30s" name="WhatsApp Video 2026-10-22 at 12.58.15 (1)" start="0/30s" duration="4987/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r7" lane="8" offset="656/30s" name="WhatsApp Video 2026-10-22 at 16.20.55" start="0/30s" duration="4922/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r8" lane="9" offset="118/30s" name="WhatsApp Video 2026-10-22 at 17.36.26" start="0/30s" duration="5450/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r9" lane="10" offset="4414/30s" name="WhatsApp Video 2026-10-22 at 12.58.09" start="0/30s" duration="1086/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r10" lane="11" offset="920/30s" name="WhatsApp Video 2026-10-22 at 12.58.15" start="0/30s" duration="1075/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r11" lane="12" offset="3743/30s" name="WhatsApp Video 2026-10-22 at 12.58.51" start="0/30s" duration="230/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r12" lane="13" offset="266/30s" name="WhatsApp Video 2026-10-22 at 13.01.01 (1)" start="0/30s" duration="448/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r13" lane="14" offset="310/30s" name="WhatsApp Video 2026-10-22 at 13.32.04" start="0/30s" duration="665/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r14" lane="15" offset="2177/30s" name="WhatsApp Video 2026-10-22 at 13.32.05" start="0/30s" duration="419/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r15" lane="16" offset="3091/30s" name="WhatsApp Video 2026-10-22 at 13.32.05 (1)" start="0/30s" duration="685/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r16" lane="17" offset="3792/30s" name="WhatsApp Video 2026-10-22 at 14.07.17" start="0/30s" duration="866/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r17" lane="18" offset="4951/30s" name="WhatsApp Video 2026-10-22 at 14.07.53" start="0/30s" duration="547/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r18" lane="19" offset="167/30s" name="WhatsApp Video 2026-10-22 at 14.07.54" start="0/30s" duration="626/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r19" lane="20" offset="9/30s" name="WhatsApp Video 2026-10-22 at 22.38.01 (1)" start="0/30s" duration="242/30s"><adjust-volume amount="-96dB"/></asset-clip>
+<asset-clip ref="r22" lane="1" offset="5722/30s" name="WhatsApp Video 2026-10-22 at 13.43.23 (SENKRONSUZ)" start="0s" duration="390/30s"/>
+<asset-clip ref="r23" lane="1" offset="6142/30s" name="WhatsApp Video 2026-10-22 at 13.01.01 (SENKRONSUZ)" start="0s" duration="422/30s"/>
+<asset-clip ref="r24" lane="1" offset="6594/30s" name="WhatsApp Video 2026-10-22 at 22.38.01 (SENKRONSUZ)" start="0s" duration="319/30s"/>
+<asset-clip ref="r25" lane="1" offset="6943/30s" name="WhatsApp Video 2026-10-22 at 22.38.01 (2) (SENKRONSUZ)" start="0s" duration="526/30s"/>
+<asset-clip ref="r26" lane="1" offset="7499/30s" name="WhatsApp Video 2026-10-22 at 14.07.54 (1) (SENKRONSUZ)" start="0s" duration="626/30s"/>
+<asset-clip ref="r27" lane="1" offset="8155/30s" name="DJI_20261022115239_0001_D (SENKRONSUZ)" start="0s" duration="360/30s"/>
+</gap>
+</spine>
+</sequence>
+</project>
+</event>
+</library>
+</fcpxml>
